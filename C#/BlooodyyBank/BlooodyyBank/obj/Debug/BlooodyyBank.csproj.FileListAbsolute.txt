@@ -1,0 +1,27 @@
+D:\Đại học mở\C#\BlooodyyBank\BlooodyyBank\bin\Debug\BlooodyyBank.exe.config
+D:\Đại học mở\C#\BlooodyyBank\BlooodyyBank\bin\Debug\BlooodyyBank.exe
+D:\Đại học mở\C#\BlooodyyBank\BlooodyyBank\bin\Debug\BlooodyyBank.pdb
+D:\Đại học mở\C#\BlooodyyBank\BlooodyyBank\obj\Debug\BlooodyyBank.csproj.AssemblyReference.cache
+D:\Đại học mở\C#\BlooodyyBank\BlooodyyBank\obj\Debug\BlooodyyBank.Properties.Resources.resources
+D:\Đại học mở\C#\BlooodyyBank\BlooodyyBank\obj\Debug\BlooodyyBank.csproj.GenerateResource.cache
+D:\Đại học mở\C#\BlooodyyBank\BlooodyyBank\obj\Debug\BlooodyyBank.csproj.CoreCompileInputs.cache
+D:\Đại học mở\C#\BlooodyyBank\BlooodyyBank\obj\Debug\BlooodyyBank.exe
+D:\Đại học mở\C#\BlooodyyBank\BlooodyyBank\obj\Debug\BlooodyyBank.pdb
+D:\Đại học mở\C#\BlooodyyBank\BlooodyyBank\obj\Debug\BlooodyyBank.Login.resources
+D:\Đại học mở\C#\BlooodyyBank\BlooodyyBank\obj\Debug\BlooodyyBank.Form2.resources
+D:\Đại học mở\C#\BlooodyyBank\BlooodyyBank\obj\Debug\BlooodyyBank.Form3.resources
+D:\Đại học mở\C#\BlooodyyBank\BlooodyyBank\obj\Debug\BlooodyyBank.Form4.resources
+C:\c#\BloodyyyBank\C#\BlooodyyBank\BlooodyyBank\bin\Debug\BlooodyyBank.exe.config
+C:\c#\BloodyyyBank\C#\BlooodyyBank\BlooodyyBank\bin\Debug\BlooodyyBank.exe
+C:\c#\BloodyyyBank\C#\BlooodyyBank\BlooodyyBank\bin\Debug\BlooodyyBank.pdb
+C:\c#\BloodyyyBank\C#\BlooodyyBank\BlooodyyBank\obj\Debug\BlooodyyBank.csproj.AssemblyReference.cache
+C:\c#\BloodyyyBank\C#\BlooodyyBank\BlooodyyBank\obj\Debug\BlooodyyBank.Login.resources
+C:\c#\BloodyyyBank\C#\BlooodyyBank\BlooodyyBank\obj\Debug\BlooodyyBank.Register.resources
+C:\c#\BloodyyyBank\C#\BlooodyyBank\BlooodyyBank\obj\Debug\BlooodyyBank.Detail.resources
+C:\c#\BloodyyyBank\C#\BlooodyyBank\BlooodyyBank\obj\Debug\BlooodyyBank.Search.resources
+C:\c#\BloodyyyBank\C#\BlooodyyBank\BlooodyyBank\obj\Debug\BlooodyyBank.List.resources
+C:\c#\BloodyyyBank\C#\BlooodyyBank\BlooodyyBank\obj\Debug\BlooodyyBank.Properties.Resources.resources
+C:\c#\BloodyyyBank\C#\BlooodyyBank\BlooodyyBank\obj\Debug\BlooodyyBank.csproj.GenerateResource.cache
+C:\c#\BloodyyyBank\C#\BlooodyyBank\BlooodyyBank\obj\Debug\BlooodyyBank.csproj.CoreCompileInputs.cache
+C:\c#\BloodyyyBank\C#\BlooodyyBank\BlooodyyBank\obj\Debug\BlooodyyBank.exe
+C:\c#\BloodyyyBank\C#\BlooodyyBank\BlooodyyBank\obj\Debug\BlooodyyBank.pdb
