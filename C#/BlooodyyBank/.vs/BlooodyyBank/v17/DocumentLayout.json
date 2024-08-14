@@ -1,30 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\c#\\BloodyyyBank\\C#\\BlooodyyBank\\",
+  "WorkspaceRootPath": "C:\\Users\\phant\\Documents\\GitHub\\OU-LTGD\\C#\\BlooodyyBank\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{898DB8FF-E9EE-4469-B1C2-C11DD5408A51}|BlooodyyBank\\BlooodyyBank.csproj|c:\\c#\\bloodyyybank\\c#\\blooodyybank\\blooodyybank\\search.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{898DB8FF-E9EE-4469-B1C2-C11DD5408A51}|BlooodyyBank\\BlooodyyBank.csproj|solutionrelative:blooodyybank\\search.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{898DB8FF-E9EE-4469-B1C2-C11DD5408A51}|BlooodyyBank\\BlooodyyBank.csproj|c:\\users\\phant\\documents\\github\\ou-ltgd\\c#\\blooodyybank\\blooodyybank\\bbmsystemdataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{898DB8FF-E9EE-4469-B1C2-C11DD5408A51}|BlooodyyBank\\BlooodyyBank.csproj|solutionrelative:blooodyybank\\bbmsystemdataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{898DB8FF-E9EE-4469-B1C2-C11DD5408A51}|BlooodyyBank\\BlooodyyBank.csproj|C:\\c#\\BloodyyyBank\\C#\\BlooodyyBank\\blooodyybank\\list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{898DB8FF-E9EE-4469-B1C2-C11DD5408A51}|BlooodyyBank\\BlooodyyBank.csproj|solutionrelative:blooodyybank\\list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{898DB8FF-E9EE-4469-B1C2-C11DD5408A51}|BlooodyyBank\\BlooodyyBank.csproj|c:\\users\\phant\\documents\\github\\ou-ltgd\\c#\\blooodyybank\\blooodyybank\\bbmsystemdataset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{898DB8FF-E9EE-4469-B1C2-C11DD5408A51}|BlooodyyBank\\BlooodyyBank.csproj|solutionrelative:blooodyybank\\bbmsystemdataset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{898DB8FF-E9EE-4469-B1C2-C11DD5408A51}|BlooodyyBank\\BlooodyyBank.csproj|C:\\c#\\BloodyyyBank\\C#\\BlooodyyBank\\blooodyybank\\detail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{898DB8FF-E9EE-4469-B1C2-C11DD5408A51}|BlooodyyBank\\BlooodyyBank.csproj|solutionrelative:blooodyybank\\detail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{898DB8FF-E9EE-4469-B1C2-C11DD5408A51}|BlooodyyBank\\BlooodyyBank.csproj|C:\\Users\\phant\\Documents\\GitHub\\OU-LTGD\\C#\\BlooodyyBank\\blooodyybank\\register.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{898DB8FF-E9EE-4469-B1C2-C11DD5408A51}|BlooodyyBank\\BlooodyyBank.csproj|solutionrelative:blooodyybank\\register.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{898DB8FF-E9EE-4469-B1C2-C11DD5408A51}|BlooodyyBank\\BlooodyyBank.csproj|C:\\c#\\BloodyyyBank\\C#\\BlooodyyBank\\blooodyybank\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{898DB8FF-E9EE-4469-B1C2-C11DD5408A51}|BlooodyyBank\\BlooodyyBank.csproj|solutionrelative:blooodyybank\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{898DB8FF-E9EE-4469-B1C2-C11DD5408A51}|BlooodyyBank\\BlooodyyBank.csproj|C:\\c#\\BloodyyyBank\\C#\\BlooodyyBank\\blooodyybank\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{898DB8FF-E9EE-4469-B1C2-C11DD5408A51}|BlooodyyBank\\BlooodyyBank.csproj|C:\\Users\\phant\\Documents\\GitHub\\OU-LTGD\\C#\\BlooodyyBank\\blooodyybank\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{898DB8FF-E9EE-4469-B1C2-C11DD5408A51}|BlooodyyBank\\BlooodyyBank.csproj|solutionrelative:blooodyybank\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{898DB8FF-E9EE-4469-B1C2-C11DD5408A51}|BlooodyyBank\\BlooodyyBank.csproj|C:\\c#\\BloodyyyBank\\C#\\BlooodyyBank\\blooodyybank\\detail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{898DB8FF-E9EE-4469-B1C2-C11DD5408A51}|BlooodyyBank\\BlooodyyBank.csproj|solutionrelative:blooodyybank\\detail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{898DB8FF-E9EE-4469-B1C2-C11DD5408A51}|BlooodyyBank\\BlooodyyBank.csproj|C:\\Users\\phant\\Documents\\GitHub\\OU-LTGD\\C#\\BlooodyyBank\\blooodyybank\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{898DB8FF-E9EE-4469-B1C2-C11DD5408A51}|BlooodyyBank\\BlooodyyBank.csproj|solutionrelative:blooodyybank\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{898DB8FF-E9EE-4469-B1C2-C11DD5408A51}|BlooodyyBank\\BlooodyyBank.csproj|C:\\Users\\phant\\Documents\\GitHub\\OU-LTGD\\C#\\BlooodyyBank\\blooodyybank\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{898DB8FF-E9EE-4469-B1C2-C11DD5408A51}|BlooodyyBank\\BlooodyyBank.csproj|solutionrelative:blooodyybank\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{898DB8FF-E9EE-4469-B1C2-C11DD5408A51}|BlooodyyBank\\BlooodyyBank.csproj|C:\\Users\\phant\\Documents\\GitHub\\OU-LTGD\\C#\\BlooodyyBank\\blooodyybank\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{898DB8FF-E9EE-4469-B1C2-C11DD5408A51}|BlooodyyBank\\BlooodyyBank.csproj|solutionrelative:blooodyybank\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{898DB8FF-E9EE-4469-B1C2-C11DD5408A51}|BlooodyyBank\\BlooodyyBank.csproj|C:\\Users\\phant\\Documents\\GitHub\\OU-LTGD\\C#\\BlooodyyBank\\blooodyybank\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{898DB8FF-E9EE-4469-B1C2-C11DD5408A51}|BlooodyyBank\\BlooodyyBank.csproj|solutionrelative:blooodyybank\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,79 +42,111 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Detail.cs",
-              "DocumentMoniker": "C:\\c#\\BloodyyyBank\\C#\\BlooodyyBank\\BlooodyyBank\\Detail.cs",
-              "RelativeDocumentMoniker": "BlooodyyBank\\Detail.cs",
-              "ToolTip": "C:\\c#\\BloodyyyBank\\C#\\BlooodyyBank\\BlooodyyBank\\Detail.cs",
-              "RelativeToolTip": "BlooodyyBank\\Detail.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAawBoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T07:43:27.058Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Login.cs [Design]",
-              "DocumentMoniker": "C:\\c#\\BloodyyyBank\\C#\\BlooodyyBank\\BlooodyyBank\\Login.cs",
-              "RelativeDocumentMoniker": "BlooodyyBank\\Login.cs",
-              "ToolTip": "C:\\c#\\BloodyyyBank\\C#\\BlooodyyBank\\BlooodyyBank\\Login.cs [Design]",
-              "RelativeToolTip": "BlooodyyBank\\Login.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-03T14:42:21.239Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Register.cs [Design]",
-              "DocumentMoniker": "C:\\c#\\BloodyyyBank\\C#\\BlooodyyBank\\BlooodyyBank\\Register.cs",
-              "RelativeDocumentMoniker": "BlooodyyBank\\Register.cs",
-              "ToolTip": "C:\\c#\\BloodyyyBank\\C#\\BlooodyyBank\\BlooodyyBank\\Register.cs [Design]",
-              "RelativeToolTip": "BlooodyyBank\\Register.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-03T15:23:51.278Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Detail.cs [Design]",
-              "DocumentMoniker": "C:\\c#\\BloodyyyBank\\C#\\BlooodyyBank\\BlooodyyBank\\Detail.cs",
-              "RelativeDocumentMoniker": "BlooodyyBank\\Detail.cs",
-              "ToolTip": "C:\\c#\\BloodyyyBank\\C#\\BlooodyyBank\\BlooodyyBank\\Detail.cs [Design]",
-              "RelativeToolTip": "BlooodyyBank\\Detail.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-04T02:26:58.595Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Search.cs [Design]",
-              "DocumentMoniker": "C:\\c#\\BloodyyyBank\\C#\\BlooodyyBank\\BlooodyyBank\\Search.cs",
-              "RelativeDocumentMoniker": "BlooodyyBank\\Search.cs",
-              "ToolTip": "C:\\c#\\BloodyyyBank\\C#\\BlooodyyBank\\BlooodyyBank\\Search.cs [Design]",
-              "RelativeToolTip": "BlooodyyBank\\Search.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-04T03:59:05.444Z",
-              "EditorCaption": " [Design]"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "List.cs [Design]",
-              "DocumentMoniker": "C:\\c#\\BloodyyyBank\\C#\\BlooodyyBank\\BlooodyyBank\\List.cs",
-              "RelativeDocumentMoniker": "BlooodyyBank\\List.cs",
-              "ToolTip": "C:\\c#\\BloodyyyBank\\C#\\BlooodyyBank\\BlooodyyBank\\List.cs [Design]",
-              "RelativeToolTip": "BlooodyyBank\\List.cs [Design]",
+              "Title": "BBMSystemDataSet.cs",
+              "DocumentMoniker": "C:\\Users\\phant\\Documents\\GitHub\\OU-LTGD\\C#\\BlooodyyBank\\BlooodyyBank\\BBMSystemDataSet.cs",
+              "RelativeDocumentMoniker": "BlooodyyBank\\BBMSystemDataSet.cs",
+              "ToolTip": "C:\\Users\\phant\\Documents\\GitHub\\OU-LTGD\\C#\\BlooodyyBank\\BlooodyyBank\\BBMSystemDataSet.cs",
+              "RelativeToolTip": "BlooodyyBank\\BBMSystemDataSet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-04T14:38:12.379Z",
+              "WhenOpened": "2024-08-11T11:16:12.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BBMSystemDataSet.xsd",
+              "DocumentMoniker": "C:\\Users\\phant\\Documents\\GitHub\\OU-LTGD\\C#\\BlooodyyBank\\BlooodyyBank\\BBMSystemDataSet.xsd",
+              "RelativeDocumentMoniker": "BlooodyyBank\\BBMSystemDataSet.xsd",
+              "ToolTip": "C:\\Users\\phant\\Documents\\GitHub\\OU-LTGD\\C#\\BlooodyyBank\\BlooodyyBank\\BBMSystemDataSet.xsd",
+              "RelativeToolTip": "BlooodyyBank\\BBMSystemDataSet.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-08-11T11:12:53.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\phant\\Documents\\GitHub\\OU-LTGD\\C#\\BlooodyyBank\\BlooodyyBank\\Register.Designer.cs",
+              "RelativeDocumentMoniker": "BlooodyyBank\\Register.Designer.cs",
+              "ToolTip": "C:\\Users\\phant\\Documents\\GitHub\\OU-LTGD\\C#\\BlooodyyBank\\BlooodyyBank\\Register.Designer.cs",
+              "RelativeToolTip": "BlooodyyBank\\Register.Designer.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAYwDUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T09:45:32.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegisterForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\phant\\Documents\\GitHub\\OU-LTGD\\C#\\BlooodyyBank\\BlooodyyBank\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "BlooodyyBank\\RegisterForm.cs",
+              "ToolTip": "C:\\Users\\phant\\Documents\\GitHub\\OU-LTGD\\C#\\BlooodyyBank\\BlooodyyBank\\RegisterForm.cs [Design]",
+              "RelativeToolTip": "BlooodyyBank\\RegisterForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T09:44:53.187Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegisterForm.cs",
+              "DocumentMoniker": "C:\\Users\\phant\\Documents\\GitHub\\OU-LTGD\\C#\\BlooodyyBank\\BlooodyyBank\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "BlooodyyBank\\RegisterForm.cs",
+              "ToolTip": "C:\\Users\\phant\\Documents\\GitHub\\OU-LTGD\\C#\\BlooodyyBank\\BlooodyyBank\\RegisterForm.cs",
+              "RelativeToolTip": "BlooodyyBank\\RegisterForm.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAkwB0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T09:44:01.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\phant\\Documents\\GitHub\\OU-LTGD\\C#\\BlooodyyBank\\BlooodyyBank\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "BlooodyyBank\\Login.Designer.cs",
+              "ToolTip": "C:\\Users\\phant\\Documents\\GitHub\\OU-LTGD\\C#\\BlooodyyBank\\BlooodyyBank\\Login.Designer.cs",
+              "RelativeToolTip": "BlooodyyBank\\Login.Designer.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAYwGkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T09:40:42.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\phant\\Documents\\GitHub\\OU-LTGD\\C#\\BlooodyyBank\\BlooodyyBank\\Login.cs",
+              "RelativeDocumentMoniker": "BlooodyyBank\\Login.cs",
+              "ToolTip": "C:\\Users\\phant\\Documents\\GitHub\\OU-LTGD\\C#\\BlooodyyBank\\BlooodyyBank\\Login.cs",
+              "RelativeToolTip": "BlooodyyBank\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwFAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T09:35:38.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\phant\\Documents\\GitHub\\OU-LTGD\\C#\\BlooodyyBank\\BlooodyyBank\\Login.cs",
+              "RelativeDocumentMoniker": "BlooodyyBank\\Login.cs",
+              "ToolTip": "C:\\Users\\phant\\Documents\\GitHub\\OU-LTGD\\C#\\BlooodyyBank\\BlooodyyBank\\Login.cs [Design]",
+              "RelativeToolTip": "BlooodyyBank\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T14:42:21.239Z",
               "EditorCaption": " [Design]"
             }
           ]

@@ -25,3 +25,17 @@ C:\c#\BloodyyyBank\C#\BlooodyyBank\BlooodyyBank\obj\Debug\BlooodyyBank.csproj.Ge
 C:\c#\BloodyyyBank\C#\BlooodyyBank\BlooodyyBank\obj\Debug\BlooodyyBank.csproj.CoreCompileInputs.cache
 C:\c#\BloodyyyBank\C#\BlooodyyBank\BlooodyyBank\obj\Debug\BlooodyyBank.exe
 C:\c#\BloodyyyBank\C#\BlooodyyBank\BlooodyyBank\obj\Debug\BlooodyyBank.pdb
+C:\Users\phant\Documents\GitHub\OU-LTGD\C#\BlooodyyBank\BlooodyyBank\bin\Debug\BlooodyyBank.exe.config
+C:\Users\phant\Documents\GitHub\OU-LTGD\C#\BlooodyyBank\BlooodyyBank\bin\Debug\BlooodyyBank.exe
+C:\Users\phant\Documents\GitHub\OU-LTGD\C#\BlooodyyBank\BlooodyyBank\bin\Debug\BlooodyyBank.pdb
+C:\Users\phant\Documents\GitHub\OU-LTGD\C#\BlooodyyBank\BlooodyyBank\obj\Debug\BlooodyyBank.csproj.AssemblyReference.cache
+C:\Users\phant\Documents\GitHub\OU-LTGD\C#\BlooodyyBank\BlooodyyBank\obj\Debug\BlooodyyBank.Login.resources
+C:\Users\phant\Documents\GitHub\OU-LTGD\C#\BlooodyyBank\BlooodyyBank\obj\Debug\BlooodyyBank.RegisterForm.resources
+C:\Users\phant\Documents\GitHub\OU-LTGD\C#\BlooodyyBank\BlooodyyBank\obj\Debug\BlooodyyBank.Detail.resources
+C:\Users\phant\Documents\GitHub\OU-LTGD\C#\BlooodyyBank\BlooodyyBank\obj\Debug\BlooodyyBank.Search.resources
+C:\Users\phant\Documents\GitHub\OU-LTGD\C#\BlooodyyBank\BlooodyyBank\obj\Debug\BlooodyyBank.List.resources
+C:\Users\phant\Documents\GitHub\OU-LTGD\C#\BlooodyyBank\BlooodyyBank\obj\Debug\BlooodyyBank.Properties.Resources.resources
+C:\Users\phant\Documents\GitHub\OU-LTGD\C#\BlooodyyBank\BlooodyyBank\obj\Debug\BlooodyyBank.csproj.GenerateResource.cache
+C:\Users\phant\Documents\GitHub\OU-LTGD\C#\BlooodyyBank\BlooodyyBank\obj\Debug\BlooodyyBank.csproj.CoreCompileInputs.cache
+C:\Users\phant\Documents\GitHub\OU-LTGD\C#\BlooodyyBank\BlooodyyBank\obj\Debug\BlooodyyBank.exe
+C:\Users\phant\Documents\GitHub\OU-LTGD\C#\BlooodyyBank\BlooodyyBank\obj\Debug\BlooodyyBank.pdb
