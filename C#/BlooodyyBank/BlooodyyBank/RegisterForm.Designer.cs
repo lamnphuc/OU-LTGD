@@ -36,7 +36,7 @@
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
-            this.fullName = new System.Windows.Forms.TextBox();
+            this.textBoxFullName = new System.Windows.Forms.TextBox();
             this.label5 = new System.Windows.Forms.Label();
             this.Email = new System.Windows.Forms.TextBox();
             this.label6 = new System.Windows.Forms.Label();
@@ -63,7 +63,6 @@
             this.label3.Size = new System.Drawing.Size(233, 25);
             this.label3.TabIndex = 12;
             this.label3.Text = "Already have account?";
-            this.label3.Click += new System.EventHandler(this.label3_Click);
             // 
             // registerButton
             // 
@@ -73,15 +72,15 @@
             this.registerButton.TabIndex = 11;
             this.registerButton.Text = "Register";
             this.registerButton.UseVisualStyleBackColor = true;
-            this.registerButton.Click += new System.EventHandler(this.button1_Click);
+            this.registerButton.Click += new System.EventHandler(this.registerButton_Click);
             // 
             // Password
             // 
             this.Password.Location = new System.Drawing.Point(487, 227);
             this.Password.Name = "Password";
+            this.Password.PasswordChar = '*';
             this.Password.Size = new System.Drawing.Size(147, 20);
             this.Password.TabIndex = 10;
-            this.Password.TextChanged += new System.EventHandler(this.Password_TextChanged);
             // 
             // UserName
             // 
@@ -89,7 +88,6 @@
             this.UserName.Name = "UserName";
             this.UserName.Size = new System.Drawing.Size(147, 20);
             this.UserName.TabIndex = 9;
-            this.UserName.TextChanged += new System.EventHandler(this.UserName_TextChanged);
             // 
             // label2
             // 
@@ -112,7 +110,6 @@
             this.label1.Size = new System.Drawing.Size(85, 20);
             this.label1.TabIndex = 7;
             this.label1.Text = "UserName";
-            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // label4
             // 
@@ -125,13 +122,12 @@
             this.label4.TabIndex = 14;
             this.label4.Text = "Full name";
             // 
-            // fullName
+            // textBoxFullName
             // 
-            this.fullName.Location = new System.Drawing.Point(487, 128);
-            this.fullName.Name = "fullName";
-            this.fullName.Size = new System.Drawing.Size(147, 20);
-            this.fullName.TabIndex = 15;
-            this.fullName.TextChanged += new System.EventHandler(this.fullName_TextChanged);
+            this.textBoxFullName.Location = new System.Drawing.Point(487, 128);
+            this.textBoxFullName.Name = "textBoxFullName";
+            this.textBoxFullName.Size = new System.Drawing.Size(147, 20);
+            this.textBoxFullName.TabIndex = 15;
             // 
             // label5
             // 
@@ -150,7 +146,6 @@
             this.Email.Name = "Email";
             this.Email.Size = new System.Drawing.Size(147, 20);
             this.Email.TabIndex = 17;
-            this.Email.TextChanged += new System.EventHandler(this.Email_TextChanged);
             // 
             // label6
             // 
@@ -174,7 +169,7 @@
             this.Controls.Add(this.label6);
             this.Controls.Add(this.Email);
             this.Controls.Add(this.label5);
-            this.Controls.Add(this.fullName);
+            this.Controls.Add(this.textBoxFullName);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.label3);
@@ -200,7 +195,7 @@
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label4;
-        private System.Windows.Forms.TextBox fullName;
+        private System.Windows.Forms.TextBox textBoxFullName;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.TextBox Email;
         private System.Windows.Forms.Label label6;

@@ -60,9 +60,7 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(69, 16);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Hospital:";
-            this.label1.Click += new System.EventHandler(this.label1_Click);
-            // 
+            this.label1.Text = "Hospital:";            // 
             // label2
             // 
             this.label2.AutoSize = true;
@@ -86,7 +84,6 @@
             this.label3.Size = new System.Drawing.Size(110, 16);
             this.label3.TabIndex = 2;
             this.label3.Text = "Phone number:";
-            this.label3.Click += new System.EventHandler(this.label3_Click);
             // 
             // label4
             // 
