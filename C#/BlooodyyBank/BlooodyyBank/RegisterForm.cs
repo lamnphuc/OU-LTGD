@@ -16,7 +16,7 @@ namespace BlooodyyBank
         public static class UserData
         {
             // Connection string stored in App.config or web.config
-            private static readonly string connectionString = System.Configuration.ConfigurationManager.ConnectionStrings["MyConnectionString"].ConnectionString;
+            private static readonly string connectionString = System.Configuration.ConfigurationManager.ConnectionStrings["ConnectDB"].ConnectionString;
             // Save user data to SQL Server
             public static void SaveUser(User user)
             {
@@ -35,7 +35,7 @@ namespace BlooodyyBank
                         cmd.Parameters.AddWithValue("@FullName", user.FullName);
                         cmd.Parameters.AddWithValue("@Email", user.Email);
 
-                        cmd.ExecuteNonQuery();
+                          cmd.ExecuteNonQuery();
                     }
                 }
             }

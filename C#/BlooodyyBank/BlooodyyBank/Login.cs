@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Data.SqlClient;
 
 namespace BlooodyyBank
 {
@@ -17,21 +18,6 @@ namespace BlooodyyBank
             InitializeComponent();
         }
 
-        private void Login_Load(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label2_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
         private void button1_Click(object sender, EventArgs e)
         {
             PerformLogin();
@@ -39,41 +25,32 @@ namespace BlooodyyBank
 
         private void PerformLogin()
         {
-            // Hardcoded username and password for demonstration purposes
-            string username = "admin";
-            string password = "password";
+            string connectionString = System.Configuration.ConfigurationManager.ConnectionStrings["ConnectDB"].ConnectionString;
+            string username = textBoxUsername.Text;
+            string password = textBoxPassword.Text;
+            using (SqlConnection conn = new SqlConnection(connectionString))
+            {
+                conn.Open();
 
-            // Assuming textBoxUsername and textBoxPassword are the TextBox controls for user input
-            if (textBoxUsername.Text == username && textBoxPassword.Text == password)
-            {
-                MessageBox.Show("Login successful!");
-                // Proceed to the next form or main application window
-            }
-            else
-            {
-                MessageBox.Show("Invalid username or password.");
-            }
+                string query = "SELECT COUNT(1) FROM Users WHERE Username = @Username AND Password = @Password";
+                using (SqlCommand cmd = new SqlCommand(query, conn))
+                {
+                    cmd.Parameters.AddWithValue("@Username", username);
+                    cmd.Parameters.AddWithValue("@Password", password);
+
+                    int result = Convert.ToInt32(cmd.ExecuteScalar());
+                    if (result > 0) MessageBox.Show("Login successful!");
+                    else MessageBox.Show("Invalid username or password!");
+                }
+            }   
         }
 
-        private void label3_Click(object sender, EventArgs e)
-        {
-
-        }
 
         private void Quit_Click(object sender, EventArgs e)
         {
             Application.Exit();
         }
 
-        private void textBoxUsername_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void textBoxPassword_TextChanged(object sender, EventArgs e)
-        {
-
-        }
 
         private void registerButton_Click(object sender, EventArgs e)
         {

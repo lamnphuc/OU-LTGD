@@ -49,7 +49,6 @@
             this.label1.Size = new System.Drawing.Size(85, 20);
             this.label1.TabIndex = 0;
             this.label1.Text = "UserName";
-            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // label2
             // 
@@ -62,7 +61,6 @@
             this.label2.Size = new System.Drawing.Size(78, 20);
             this.label2.TabIndex = 1;
             this.label2.Text = "Password";
-            this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
             // textBoxUsername
             // 
@@ -70,7 +68,6 @@
             this.textBoxUsername.Name = "textBoxUsername";
             this.textBoxUsername.Size = new System.Drawing.Size(147, 20);
             this.textBoxUsername.TabIndex = 2;
-            this.textBoxUsername.TextChanged += new System.EventHandler(this.textBoxUsername_TextChanged);
             // 
             // textBoxPassword
             // 
@@ -79,7 +76,6 @@
             this.textBoxPassword.PasswordChar = '*';
             this.textBoxPassword.Size = new System.Drawing.Size(147, 20);
             this.textBoxPassword.TabIndex = 3;
-            this.textBoxPassword.TextChanged += new System.EventHandler(this.textBoxPassword_TextChanged);
             // 
             // button1
             // 
@@ -103,7 +99,6 @@
             this.label3.Size = new System.Drawing.Size(156, 20);
             this.label3.TabIndex = 5;
             this.label3.Text = "Do not have accout?";
-            this.label3.Click += new System.EventHandler(this.label3_Click);
             // 
             // registerButton
             // 
@@ -142,7 +137,6 @@
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "Login";
             this.Text = "Login";
-            this.Load += new System.EventHandler(this.Login_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
