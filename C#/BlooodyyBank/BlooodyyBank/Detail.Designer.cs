@@ -60,7 +60,8 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(69, 16);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Hospital:";            // 
+            this.label1.Text = "Hospital:";
+            // 
             // label2
             // 
             this.label2.AutoSize = true;
@@ -258,7 +259,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = global::BlooodyyBank.Properties.Resources.donatorr_hdd;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ClientSize = new System.Drawing.Size(907, 640);
+            this.ClientSize = new System.Drawing.Size(905, 439);
             this.Controls.Add(this.button5);
             this.Controls.Add(this.button4);
             this.Controls.Add(this.label9);
