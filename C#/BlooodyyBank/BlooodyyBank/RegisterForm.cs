@@ -15,7 +15,6 @@ namespace BlooodyyBank
 
         public static class UserData
         {
-            // Connection string stored in App.config or web.config
             private static readonly string connectionString = System.Configuration.ConfigurationManager.ConnectionStrings["ConnectDB"].ConnectionString;
             // Save user data to SQL Server
             public static void SaveUser(User user)
@@ -25,7 +24,8 @@ namespace BlooodyyBank
                     conn.Open();
 
                     // SQL Query to insert the user data
-                    string query = "INSERT INTO Users (Username, Password, FullName, Email) VALUES (@Username, @Password, @FullName, @Email)";
+                    string query = "INSERT INTO Users (Username, Password, FullName, Email) " +
+                        "VALUES (@Username, @Password, @FullName, @Email)";
 
                     using (SqlCommand cmd = new SqlCommand(query, conn))
                     {
