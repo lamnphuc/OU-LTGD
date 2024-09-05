@@ -181,11 +181,8 @@
     </BootstrapperPackage>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="BloodBankManager.mdf">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="BloodBankManager.mdf" />
     <Content Include="BloodBankManager_log.ldf">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <DependentUpon>BloodBankManager.mdf</DependentUpon>
     </Content>
   </ItemGroup>

@@ -48,6 +48,7 @@ namespace BlooodyyBank
                         cmd.Parameters.AddWithValue("@UserID", donor.UserID);
 
                         int rowsAffected = cmd.ExecuteNonQuery();
+                        MessageBox.Show($"{rowsAffected} row(s) inserted.");
 
                         if (rowsAffected > 0)
                         {
@@ -67,6 +68,7 @@ namespace BlooodyyBank
                 MessageBox.Show($"An error occurred: {ex.Message}");
             }
         }
+
 
 
         private void ResetForm()
