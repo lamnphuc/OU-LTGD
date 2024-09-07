@@ -91,5 +91,12 @@ namespace BlooodyyBank
         {
             AddDonor();
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            // open list form
+            List list = new List();
+            list.Show();
+        }
     }
 }
